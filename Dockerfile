@@ -1,1 +1,1 @@
-docker/Dockerfile.debian
+docker/Dockerfile.alpine
